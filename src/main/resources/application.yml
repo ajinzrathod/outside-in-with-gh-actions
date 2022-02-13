@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: outsideIn
+netty:
+  default:
+    allocator:
+      max-order: 3
