@@ -1,3 +1,7 @@
+## Status Badge
+
+[![CI](https://github.com/ajinzrathod/outside-in-with-gh-actions/actions/workflows/gradle.yml/badge.svg)](https://github.com/ajinzrathod/outside-in-with-gh-actions/actions/workflows/gradle.yml)
+
 ## Micronaut 3.3.1 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.3.1/guide/index.html)
